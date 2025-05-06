@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/logo.png" alt="ForgeBYTES Banner" />
+  <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/logo.png" alt="logo" width="600" />
 </p>
 
 # ForgeBYTES
