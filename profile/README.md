@@ -4,7 +4,7 @@
 
 # ForgeBYTES
 
-**ForgeBYTES is a byte-level security lab focused on raw parsing, inspection, and manipulation — from ELF executables to future network packets.**  
+**ForgeBYTES is a byte-level security lab focused on raw parsing, inspection, and manipulation — from ELF executables to network packets.**  
 
 Built on a purist object-oriented philosophy, with SOLID principles, full test coverage, and a relentless focus on maintainability. Everything starts at the same level: _bytes_.
 
