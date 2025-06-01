@@ -10,6 +10,10 @@ Built on a purist object-oriented philosophy, with SOLID principles, full test c
 
 **Minimalism. Composition. Byte-level precision.**
 
+> _“Perfection is achieved, not when there is nothing more to add,  
+> but when there is nothing left to take away.”_  
+> — **Antoine de Saint-Exupéry**
+
 > _“The impediment to action advances action.  
 > What stands in the way becomes the way.”_  
 > — **Marcus Aurelius**
