@@ -4,9 +4,14 @@
 
 # ForgeBYTES ⚒️🔥
 
-**ForgeBYTES is a byte-level security lab focused on raw parsing, inspection, and manipulation — from ELF executables to network packets.**  
+**ForgeBYTES is an LLM-driven security lab for binary inspection, mutation, and infection detection.**
 
-Built on a purist object-oriented philosophy, with SOLID principles, full test coverage, and a relentless focus on maintainability. Everything starts at the same level: _bytes_.
+Our main project, **AnvilELF**, is a next-generation ELF analysis framework that combines  
+static inspection, structural validation, disassembly, and AI-assisted reasoning.  
+It’s where human expertise meets LLM intelligence — turning binary structure into contextual insight.
+
+Built on a purist object-oriented philosophy, with **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.  
+Everything starts at the same level: _bytes_.
 
 **Minimalism. Composition. Byte-level precision.**
 
@@ -17,3 +22,9 @@ Built on a purist object-oriented philosophy, with SOLID principles, full test c
 > _“The impediment to action advances action.  
 > What stands in the way becomes the way.”_  
 > — **Marcus Aurelius**
+
+---
+
+### Projects
+- 🔥 **AnvilELF** — LLM-powered ELF analysis, mutation & infection detection framework.
+- 🦊 **Kurama** — an AI operator for binary manipulation and analysis.
