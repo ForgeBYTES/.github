@@ -4,14 +4,12 @@
 
 # ForgeBYTES ⚒️🔥
 
-**ForgeBYTES is an LLM-driven security lab for binary inspection, mutation, and infection detection.**
+**ForgeBYTES** is an organization focused on building LLM-driven byte-level security tools.  
 
-Our main project, **AnvilELF**, is a next-generation ELF analysis framework that combines  
-static inspection, structural validation, disassembly, and AI-assisted reasoning.  
-It’s where human expertise meets LLM intelligence — turning binary structure into contextual insight.
+Our main project, **AnvilELF**, is an ELF binary analysis lab for inspection, mutation, and infection detection — powered by **Kurama**, an autonomous AI operator built on top of OpenAI’s GPT model. Kurama is designed to analyze and mutate ELF binaries under user-defined tasks using built-in commands.
 
-Built on a purist object-oriented philosophy, with **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.  
-Everything starts at the same level: _bytes_.
+Built on a composition-first OOP philosophy, with **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.
+Everything starts at the same level: **_bytes_**.
 
 **Minimalism. Composition. Byte-level precision.**
 
@@ -26,5 +24,5 @@ Everything starts at the same level: _bytes_.
 ---
 
 ### Projects
-- 🔥 **AnvilELF** — LLM-powered ELF analysis, mutation & infection detection framework.
-- 🦊 **Kurama** — an AI operator for binary manipulation and analysis.
+- 🔥 **AnvilELF** — LLM-powered ELF binary analysis, mutation & infection detection framework.  
+- 🦊 **Kurama** — an autonomous AI operator for binary analysis and manipulation.
