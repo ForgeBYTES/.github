@@ -18,12 +18,6 @@ Built on a **composition-first OOP** philosophy, with **SOLID** principles, **fu
 > What stands in the way becomes the way.”_  
 > — **Marcus Aurelius**
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/anvilelf-logo.jpeg" title="AnvilELF" alt="AnvilELF" width="400" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/demo.png" alt="AnvilELF Demo" width="1000" />
 </p>
