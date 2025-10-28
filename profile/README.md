@@ -24,6 +24,14 @@ Built on a composition-first OOP philosophy, with **SOLID** principles, **full t
   <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/anvilelf-logo.jpeg" title="AnvilELF" alt="AnvilELF" width="400" />
 </p>
 
+- Inspection — Explore ELF structure down to the byte: headers, sections, segments, symbols, and relocations. Disassemble, validate, and visualize executables with surgical precision.
+- Mutation — Modify headers, sections, and symbols in a controlled, reversible way.
+Simulate exploits, obfuscation, or patching within a safe, testable environment.
+- Detection — Identify anomalies, infections, or unauthorized binary changes.
+Reveal hidden tampering through semantic and structural analysis.
+- Kurama AI Operator — Interprets user intent and translates it into validated actions.
+Guides inspection, mutation, and detection with reasoning, context, and byte-level control.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ForgeBYTES/.github/main/profile/demo.png" alt="AnvilELF Demo" width="1000" />
 </p>
