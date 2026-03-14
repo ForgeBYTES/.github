@@ -4,11 +4,12 @@
 
 ---
 
-**ForgeBYTES** builds byte-level security tools powered by **LLMs**.
+**ForgeBYTES** builds LLM-driven byte-level security tools.
 
 Our main project, **AnvilELF**, is an ELF binary analysis platform for **inspection, mutation, and infection detection**. It is powered by the AI operator **Kurama**. Kurama analyzes and mutates ELF binaries based on user-defined tasks using built-in commands.
 
-ForgeBYTES is built on a **composition-first OOP** philosophy, **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.
+It is built on a **composition-first OOP** philosophy, **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.
+
 Everything starts at the same level: **_bytes_**.
 
 **Minimalism. Composition. Byte-level precision.**
