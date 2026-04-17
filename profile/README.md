@@ -4,20 +4,13 @@
 
 ---
 
-**ForgeBYTES** builds LLM-driven byte-level security tools.
+**ForgeBYTES builds deterministic AI systems for byte-level security.**
 
-Our main project, **AnvilELF**, is an ELF binary analysis platform for **inspection, mutation, and infection detection**. It is powered by the AI operator **Kurama**. Kurama analyzes and mutates ELF binaries based on user-defined tasks using built-in commands.
+Our main project, **AnvilELF**, is an ELF binary analysis platform for **inspection, mutation, and anomaly detection**. It is powered by the AI operator **Kurama**. 
 
-It is built on a **composition-first OOP** philosophy, **SOLID** principles, **full test coverage**, and a relentless focus on **maintainability**.
+Kurama analyzes and mutates ELF binaries through **structured commands**, producing **reliable and reproducible results** instead of guesswork.
+Reverse engineering is traditionally slow, manual, and inconsistent. ForgeBYTES turns it into a **deterministic, agent-driven process**.
+
+Built on a **composition-first OOP philosophy**, **SOLID principles**, **full test coverage**, and a relentless focus on **maintainability**.
 
 Everything starts at the same level: **_bytes_**.
-
-**Minimalism. Composition. Byte-level precision.**
-
-> _“Perfection is achieved, not when there is nothing more to add,  
-> but when there is nothing left to take away.”_  
-> — **Antoine de Saint-Exupéry**
-
-> _“The impediment to action advances action.  
-> What stands in the way becomes the way.”_  
-> — **Marcus Aurelius**
