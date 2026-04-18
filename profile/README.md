@@ -9,7 +9,7 @@
 Our main project, **AnvilELF**, is an ELF binary analysis platform for **inspection, mutation, and anomaly detection**. It is powered by the AI operator **Kurama**. 
 
 Kurama analyzes and mutates ELF binaries through **structured commands**, producing **reliable and reproducible results** instead of guesswork.
-Reverse engineering is traditionally slow, manual, and inconsistent. ForgeBYTES turns it into a **deterministic, agent-driven process**.
+Binary analysis is often slow, manual, and inconsistent. ForgeBYTES turns it into a **deterministic, agent-driven process**.
 
 Built on a **composition-first OOP philosophy**, **SOLID principles**, **full test coverage**, and a relentless focus on **maintainability**.
 
