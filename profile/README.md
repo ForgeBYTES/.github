@@ -4,8 +4,4 @@
 
 ---
 
-**ForgeBYTES** is an explainable ELF binary analysis platform grounded in **structural facts, behavioral indicators, and LLM reasoning**. It is powered by **Kurama**, the LLM reasoning agent that explains, prioritizes, and contextualizes extracted facts. Binary analysis is often slow, manual, and inconsistent. ForgeBYTES turns it into a **deterministic, agent-driven process**.
-
-It is built on a **composition-first OOP** philosophy, **full test coverage**, and a relentless focus on **maintainability**.
-
-Everything starts at the same level: **_bytes_**.
+**ForgeBYTES** is an agentic static-analysis system for securing Linux binaries, built on deterministic, byte-level facts. It knows how a normal ELF is shaped — and reports every structural and behavioral deviation with its mechanism and evidence, whether or not a signature exists.
